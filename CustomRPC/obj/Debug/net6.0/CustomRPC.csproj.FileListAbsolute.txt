@@ -1,0 +1,15 @@
+C:\Users\CBozi\source\repos\CustomRPC\CustomRPC\obj\Debug\net6.0\CustomRPC.csproj.AssemblyReference.cache
+C:\Users\CBozi\source\repos\CustomRPC\CustomRPC\obj\Debug\net6.0\CustomRPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CBozi\source\repos\CustomRPC\CustomRPC\obj\Debug\net6.0\CustomRPC.AssemblyInfoInputs.cache
+C:\Users\CBozi\source\repos\CustomRPC\CustomRPC\obj\Debug\net6.0\CustomRPC.AssemblyInfo.cs
+C:\Users\CBozi\source\repos\CustomRPC\CustomRPC\obj\Debug\net6.0\CustomRPC.csproj.CoreCompileInputs.cache
+C:\Users\CBozi\source\repos\CustomRPC\CustomRPC\bin\Debug\net6.0\CustomRPC.exe
+C:\Users\CBozi\source\repos\CustomRPC\CustomRPC\bin\Debug\net6.0\CustomRPC.deps.json
+C:\Users\CBozi\source\repos\CustomRPC\CustomRPC\bin\Debug\net6.0\CustomRPC.runtimeconfig.json
+C:\Users\CBozi\source\repos\CustomRPC\CustomRPC\bin\Debug\net6.0\CustomRPC.dll
+C:\Users\CBozi\source\repos\CustomRPC\CustomRPC\bin\Debug\net6.0\CustomRPC.pdb
+C:\Users\CBozi\source\repos\CustomRPC\CustomRPC\obj\Debug\net6.0\CustomRPC.dll
+C:\Users\CBozi\source\repos\CustomRPC\CustomRPC\obj\Debug\net6.0\refint\CustomRPC.dll
+C:\Users\CBozi\source\repos\CustomRPC\CustomRPC\obj\Debug\net6.0\CustomRPC.pdb
+C:\Users\CBozi\source\repos\CustomRPC\CustomRPC\obj\Debug\net6.0\CustomRPC.genruntimeconfig.cache
+C:\Users\CBozi\source\repos\CustomRPC\CustomRPC\obj\Debug\net6.0\ref\CustomRPC.dll
